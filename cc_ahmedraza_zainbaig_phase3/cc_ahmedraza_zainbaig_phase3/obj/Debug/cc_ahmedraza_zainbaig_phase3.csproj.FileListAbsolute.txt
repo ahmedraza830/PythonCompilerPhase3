@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\subtect\cc_ahmedraza_zainbaig_phase3\cc_ahmedraza_zainbaig_phase3\bin\Debug\cc_ahmedraza_zainbaig_phase3.exe.config
+C:\Users\hp\Desktop\subtect\cc_ahmedraza_zainbaig_phase3\cc_ahmedraza_zainbaig_phase3\bin\Debug\cc_ahmedraza_zainbaig_phase3.exe
+C:\Users\hp\Desktop\subtect\cc_ahmedraza_zainbaig_phase3\cc_ahmedraza_zainbaig_phase3\bin\Debug\cc_ahmedraza_zainbaig_phase3.pdb
+C:\Users\hp\Desktop\subtect\cc_ahmedraza_zainbaig_phase3\cc_ahmedraza_zainbaig_phase3\obj\Debug\cc_ahmedraza_zainbaig_phase3.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\subtect\cc_ahmedraza_zainbaig_phase3\cc_ahmedraza_zainbaig_phase3\obj\Debug\cc_ahmedraza_zainbaig_phase3.exe
+C:\Users\hp\Desktop\subtect\cc_ahmedraza_zainbaig_phase3\cc_ahmedraza_zainbaig_phase3\obj\Debug\cc_ahmedraza_zainbaig_phase3.pdb
